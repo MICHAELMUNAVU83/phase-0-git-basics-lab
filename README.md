@@ -2,7 +2,7 @@
 
 ## Learning Goals
 
-- Understand how to complete assignments
+- Understand how to complete assignment
 - Apply what you've learned about Git version control
 - Initialize a new Git repository
 - Stage and commit new content
